@@ -7,7 +7,7 @@
 # Source: https://github.com/shellhacks/MikroTik/src/telegram-config-global.rsc
 #
 # Tested on RouterOS, version=7.12 (stable)
-# Version: 1.0
+# Version: 1.0.0
 
 # BEGIN SETUP
 :global tgBotToken "0123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghi"
