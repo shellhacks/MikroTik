@@ -3,7 +3,7 @@
 # Copyright (c) 2011-2024 www.ShellHacks.com <mail@shellhacks.com>
 #
 # Monitor authentication events and send notifications on login attempts to Telegram
-# Documentation: https://www.shellhacks.com/mikrotik-telegram-notifications-on-login-attempts
+# Documentation: https://www.shellhacks.com/mikrotik-telegram-notification-on-login-attempt
 # Source: https://github.com/shellhacks/MikroTik/src/auth-logs-monitoring.rsc
 #
 # Requires:
