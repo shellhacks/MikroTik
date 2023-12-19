@@ -4,11 +4,11 @@
 #
 # Monitor authentication events and send notifications on login attempts to Telegram
 # Documentation: https://www.shellhacks.com/mikrotik-telegram-notification-on-login-attempt
-# Source: https://github.com/shellhacks/MikroTik/src/auth-logs-monitoring.rsc
+# Source: https://github.com/shellhacks/MikroTik/blob/main/src/auth-logs-monitoring.rsc
 #
 # Requires:
 # - telegram-config-global
-#   https://github.com/shellhacks/MikroTik/src/telegram-config-global.rsc
+#   https://github.com/shellhacks/MikroTik/blob/main/src/telegram-config-global.rsc
 #
 # Tested on RouterOS, version=7.12 (stable)
 # Version: 1.0.0

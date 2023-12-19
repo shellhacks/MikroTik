@@ -4,7 +4,7 @@
 #
 # Telegram Bot API global settings
 # Documentation: https://www.shellhacks.com/mikrotik-send-message-to-telegram
-# Source: https://github.com/shellhacks/MikroTik/src/telegram-config-global.rsc
+# Source: https://github.com/shellhacks/MikroTik/blob/main/src/telegram-config-global.rsc
 #
 # Tested on RouterOS, version=7.12 (stable)
 # Version: 1.0.0
